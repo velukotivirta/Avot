@@ -1,0 +1,17 @@
+* {
+    font-family: "Nunito Sans", serif;
+}
+
+body {
+    background-color: black;
+    border-style: solid;
+}
+
+div {
+    color: aliceblue;
+    gap: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    border-style: solid;
+    border-radius: 1rem;
+}
